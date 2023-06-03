@@ -1,9 +1,21 @@
-fx_version "cerulean"
-game "gta5"
+--[[
+ _       _____ 
+| |     / ____|
+| |    | (___
+| |     \___ \
+| |____ ____) |
+|______|_____/
 
-author "Anto Orza#6115"
-description "Ls Loading Screen"
-version "1.0.0"
+]]
+                                 
+                                 
+fx_version 'cerulean'
+game 'gta5'
+
+version '1.0.0'
+author 'Anto Orza#6115'
+description 'Z Ls Loading Screen (Basic) (https://orzafamily.com/)'
+repository 'https://github.com/LS-Robert/LS-Simple-LoadingScreen'
 
 files {
         'index.html',
